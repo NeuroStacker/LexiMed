@@ -1,0 +1,7 @@
+flask
+requests
+pdf2image
+pytesseract
+Pillow
+PyMuPDF
+poppler-utils
